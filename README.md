@@ -6,6 +6,8 @@
 |First read|[class1](./class1/README.md)|
 |Second read|[class2](./class2/README.md)|
 |Third read|[class3](./class3/README.md)|
+|Forth read|[class4](./class4/README.md)|
+|Fifth read|[class5](./class5/README.md)|
 
 <h1> Reading Notes </h1>
 
