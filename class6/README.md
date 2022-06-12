@@ -11,11 +11,13 @@ The possible risks you should have in mind is:
 - Use of new automation tool
 - The sequence of code
 - Availability of test resources for the application
+
 And there is some risks cant be avoidable like:
 - The time that you allocated for testing
 - A defect leakage due to the complexity or size of the application
 - Urgency from the clients to deliver the project
 - Incomplete requirements
+
 There is different sets of risks such as: 
 - Business Risks: It is the risk that may come from your company or your customer.
 - Testing Risks: You should be well acquainted with the platform you are working on, along with the software testing tools being used.
