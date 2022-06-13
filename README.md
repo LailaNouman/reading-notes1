@@ -8,6 +8,8 @@
 |Third read|[class3](./class3/README.md)|
 |Forth read|[class4](./class4/README.md)|
 |Fifth read|[class5](./class5/README.md)|
+|Sixth read|[class6](./class6/README.md)|
+|Seventh read|[class7](./class7/README.md)|
 
 <h1> Reading Notes </h1>
 
