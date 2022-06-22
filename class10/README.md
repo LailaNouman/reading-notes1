@@ -1,17 +1,28 @@
-# Class-09:
+# Class-10:
 
 
-### Dunder methods:
-Also known as magic methods, they are a set of predefined methods you can use to enrich your classes, and are easy to recognize because they start and end with double underscores, for example __init__ or __str__.
+## Stacks and queues:
+##### Stack
+A data structure that consists of Nodes. Each Node references the next Node in the stack, but does not reference its previous.
 
-- Object Initialization: __init__: To construct account objects from the Account class you need a constructor which is the __init__ dunder.
-- Object Representation: __repr__: The “official” string representation of an object. This is how you would make an object of the class. __str__: The “informal” or nicely printable string representation of an object.
-- Iteration: __len__, __getitem__, __reversed__.
-And many more
+##### Terminologies of stacks:
+- Push: Nodes or items that are put into the stack are pushed. Big O(1)
+- Pop: Nodes or items that are removed from the stack are popped. Big O(1)
+- Top: This is the top of the stack.
+- Peek: When you peek you will view the value of the top Node in the stack. Big O(1)
+- IsEmpty: Returns true when stack is empty otherwise returns false. Big O(1)
 
-### Statistics:
-Probability: Is the chance of an event happening, an event is some outcome of interest, to calculate the chance of an event happening, we also need to consider all the other events that can occur. Probability gives us a framework for making predictions about how often events will happen.
+Stacks follow the concept of LIFO: which means last IN first OUT or FILO: first IN last OUT.
 
-Probability provides the theory, while statistics provides the tools to test that theory using data.
-The normal distribution refers to a particularly important phenomenon in the realm of probability and statistics.
+##### Queue
+A linear data structure which follows a particular order in which the operations are performed.
 
+##### Terminologies of queue:
+- Enqueue: Nodes or items that are added to the queue. Big O(1)
+- Dequeue: Nodes or items that are removed from the queue. Big O(1)
+- Front: The front/first Node of the queue. 
+- Rear: The rear/last Node of the queue.
+- Peek: When you peek you will view the value of the front Node in the queue. Big O(1)
+- IsEmpty: Returns true when queue is empty otherwise returns false. Big O(1)
+
+Queues follow the concept FIFO: which means first IN first OUT or LILO: last IN last OUT
