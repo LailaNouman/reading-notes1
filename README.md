@@ -12,6 +12,8 @@
 |Seventh read|[class7](./class7/README.md)|
 |Eighth read|[class8](./class8/README.md)|
 |Ninth read|[class9](./class9/README.md)|
+|Tenth read|[class10](./class10/README.md)|
+
 
 <h1> Reading Notes </h1>
 
