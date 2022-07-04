@@ -18,6 +18,7 @@
 |Thirteenth read|[class13](./class13/README.md)|
 |Forteenth read|[class14](./class14/README.md)|
 |Fifteenth read|[class15](./class15/README.md)|
+|Sixteen read|[class16](./class16/README.md)|
 
 <h1> Reading Notes </h1>
 

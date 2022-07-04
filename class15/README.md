@@ -1,11 +1,30 @@
 # Class-15:
 
+### Trees:
+There is three types of trees:
+- Binary tree.
+- Binary search tree.
+- k-ary tree.
 
-### Serverless computing
-Serverless is a cloud application development and execution model that lets developers build and run code without managing servers.
-Function-as-a-service, or FaaS, is a cloud computing service that enables developers to run code or containers in response to specific events or requests, without specifying or managing the infrastructure required to run to code. FaaS is the compute model central to serverless, and the two terms are often used interchangeably. But serverless is much more than FaaS. Serverless is an entire stack of services that can respond to specific events or requests, and scale to zero when no longer in use—and for which provisioning, management and billing are handled by the cloud provider and invisible to developers.
+A tree contain these things:
+- Node - A Tree node is a component which may contain its own values, and references to other nodes.
+- Root - The root is the node at the beginning of the tree.
+- K - A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary  tree, k = 2.
+- Left - A reference to one child node, in a binary tree.
+- Right - A reference to the other child node, in a binary tree.
+- Edge - The edge in a tree is the link between a parent and child node.
+- Leaf - A leaf is a node that does not have any children.
+- Height - The height of a tree is the number of edges from the root to the furthest leaf.
 
-- Provisioning time: Measured in milliseconds for serverless, vs. minutes to hours for the other models.
-- Administrative burden: None for serverless, compared to a continuum from light to medium to heavy for PaaS, containers and VMs respectively.
-- Maintenance: Serverless architectures are managed 100% by the provider. The same is true for PaaS, but containers and VMs require significant maintenance including updating/managing operating systems, container images, connections.
-- Capacity planning: None needed for serverless. The other models require a mix of some automatic scalability and some capacity planning.
+### Traversals:
+Traversing a tree allows us to search for a node, print out the contents of a tree, and when it comes to trees there are two categories of travesals:
+- Depth first.
+- Breadth first.
+
+Depth first: is where we prioritize going through the depth (height) of the tree first.
+Three methods of depth first:
+- Pre-order: root >> left >> right
+- In-order: left >> root >> right
+- Post-order: left >> right >> root
+
+Breadth first: iterates through the tree by going through each level of the tree node-by-node.
