@@ -1,6 +1,6 @@
 # Class-18:
 
-### Ceaser cipher
+### Ceasar cipher
 Encryption: The Caesar Cipher is a simple substitution cipher which replaces each original letter with a different letter in the alphabet by shifting the alphabet by a certain amount. (Scrambling the data according to a secret key.)
 Decryption: Caesar always used a shift of 3. As long as his message recipient knew the shift amount, it was trivial for them to decode the message, they can then decode the message with certainty. (Recovering the original data from scrambled data by using the secret key.)
 Cracking the cipher: There are three main techniques to crack the message: frequency analysis, known plaintext, and brute force. (Uncovering the original data without knowing the secret, by using a variety of clever techniques.)
