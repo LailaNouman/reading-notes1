@@ -20,6 +20,7 @@
 |Fifteenth read|[class15](./class15/README.md)|
 |Sixteen read|[class16](./class16/README.md)|
 |Seventeeth read|[class17](./class17/README.md)|
+|Eighteenth read|[class18](./class18/README.md)|
 
 <h1> Reading Notes </h1>
 
