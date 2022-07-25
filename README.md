@@ -21,6 +21,8 @@
 |Sixteen read|[class16](./class16/README.md)|
 |Seventeeth read|[class17](./class17/README.md)|
 |Eighteenth read|[class18](./class18/README.md)|
+|Twenty sixth read|[class26](./class26/README.md)|
+|Twenty seventh read|[class27](./class27/README.md)|
 
 <h1> Reading Notes </h1>
 
