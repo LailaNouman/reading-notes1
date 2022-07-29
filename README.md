@@ -24,6 +24,7 @@
 |Twenty sixth read|[class26](./class26/README.md)|
 |Twenty seventh read|[class27](./class27/README.md)|
 |Twenty eighth read|[class28](./class28/README.md)|
+|Twenty nineth read|[class29](./class29/README.md)|
 
 <h1> Reading Notes </h1>
 
