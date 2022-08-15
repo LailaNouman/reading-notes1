@@ -28,6 +28,7 @@
 |Thirty read|[class30](./class30/README.md)|
 |Thirty one read|[class31](./class31/README.md)|
 |Thirty two read|[class32](./class32/README.md)|
+|Thirty four read|[class34](./class34/README.md)|
 
 <h1> Reading Notes </h1>
 
